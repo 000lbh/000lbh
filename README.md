@@ -1,4 +1,4 @@
-### Hi there 👋
+### 000LBH
 
 <!--
 **000lbh/000lbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+No personal website, no social media account provided here.
+Keep anonymous, keep safe.
+Learn more about me from my code! (Though there is little code currently, but it will get more in the future)
